@@ -19,3 +19,8 @@ sessionid: sessionId 默认：'-1'
 参数：key
 
 返回：key对应的value值
+
+### 历史版本
+
+#### 0.1.0
+> [http://m.youguu.com/mobile/jhss.params/0.1.0/jhss.params.js](http://m.youguu.com/mobile/jhss.params/0.1.0/jhss.params.js)
