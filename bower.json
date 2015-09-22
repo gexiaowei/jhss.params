@@ -6,6 +6,10 @@
   ],
   "main": "index.html",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gexiaowei/jhss.params.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
