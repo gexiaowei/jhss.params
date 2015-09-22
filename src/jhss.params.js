@@ -20,7 +20,7 @@ var appInfo = (function () {
         };
     }
     return result;
-});
+})();
 
 function getQueryString(key) {
     var reg = new RegExp('(^|&)' + key + '=([^&]*)(&|$)', 'i');
