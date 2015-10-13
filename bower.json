@@ -1,6 +1,6 @@
 {
   "name": "jhss.params",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "authors": [
     "gexiaowei<gandxiaowei@gmail.com>"
   ],
@@ -17,6 +17,5 @@
     "test",
     "tests"
   ],
-  "dependencies": {
-  }
+  "dependencies": {}
 }
